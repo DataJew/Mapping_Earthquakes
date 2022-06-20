@@ -36,9 +36,6 @@ let map = L.map('mapid', {
 
 
 // DELIVERABLE 3
-// By Emmanuel Martinez
-// Module 13
-
 // Create a base layer that holds all three maps.
 let baseMaps = {
   "Streets": streets,
