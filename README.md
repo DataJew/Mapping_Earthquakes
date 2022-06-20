@@ -63,7 +63,7 @@ Your final map should look similar to the following image:
 2. The third map is added to the overlay object.
 3. All the earthquake data and tectonic plate data are displayed on the all maps of the webpage.
 
- 
+
 
 # Deliverable 4:  
 A written report on the Mapping Earthquakes analysis [`README.md`](https://github.com/DataJew/Mapping_Earthquakes/). 
@@ -71,3 +71,5 @@ A written report on the Mapping Earthquakes analysis [`README.md`](https://githu
 
 1. **A README.md that describes the purpose of the repository. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project.**
 
+# Completed HTML
+![name-of-you-image](https://github.com/DataJew/Mapping_Earthquakes/blob/main/Resources/Images/completedHTML.png)
